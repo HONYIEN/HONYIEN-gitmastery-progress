@@ -259,5 +259,14 @@
       "Invalid answers format: missing question(s) or answer(s) or both"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787478331.320805,
+    "completed_at": 1787478335.905708,
+    "comments": [
+      "Answer for Which new values are new in north.csv on Jan 10th, compared to Jan 01st? is not right."
+    ],
+    "status": "Incomplete"
   }
 ]
