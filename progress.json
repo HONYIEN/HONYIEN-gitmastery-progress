@@ -241,5 +241,14 @@
       "Answer for Which are the new values in staged files? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787478136.692171,
+    "completed_at": 1787478141.068405,
+    "comments": [
+      "Invalid answers format: missing question(s) or answer(s) or both"
+    ],
+    "status": "Error"
   }
 ]
