@@ -385,5 +385,14 @@
       "Great job using git branch to delete both merged and unmerged branches!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "mix-messy-docs",
+    "started_at": 1787916147.91195,
+    "completed_at": 1787916154.399633,
+    "comments": [
+      "Contents of 'features.md' is not valid! Try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
